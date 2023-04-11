@@ -2,8 +2,7 @@
 Develop a model to assess the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features and accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
 
 ## Table of Contents
-* Data Understanding/Cleaning, Outlier Identification, Correlation, Univariant/Bivariant analysis/Data Visualisation/Building a linear  
-  module with all the variables/Residual Analysis of the train data/Model Evaluation/Calculating R-squared score on test data
+* Data Understanding/Cleaning, Outlier Identification, Correlation, Univariant/Bivariant analysis/Data Visualisation/Building a linear module with all the variables/Residual Analysis of the train data/Model Evaluation/Calculating R-squared score on test data
 * Numpy,Pandas, Matplotlib, Seaborn and Sklearn libraries used
 * Conclusions
 * Course Lectures
